@@ -13,7 +13,7 @@ Mi objetivo es seguir desarrollando mis habilidades artísticas y técnicas para
 - **Substances Painter ** — Creación y aplicación de materiales y texturas.
 - **Unity ** — programación y creación de videojuegos 
 
-###  Videojuegos y desarrollo
+###   Videojuegos y desarrollo
 - **Unity ** — tengo un gran interés en aprender a integrar modelos y materiales en motores de videojuegos.
 - **Git y GitHub** — lo uso para el control de versiones y organización de proyectos.
 
