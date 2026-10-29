@@ -1,4 +1,4 @@
- ¡Hola! Soy estudiante de Animación 3D y creación de videojuegos 
+ ¡Hola! Soy Valery una estudiante de Animación 3D y creación de videojuegos 
 
  ¡Bienvenidos a mi perfil de GitHub!
 
