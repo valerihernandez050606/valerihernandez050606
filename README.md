@@ -36,7 +36,7 @@ Mi objetivo es seguir desarrollando mis habilidades artísticas y técnicas para
 
 ##  Contacto profesional
 
-- GitHub:
+- GitHub:valerihernandez050606
 - Correo electrónico: valerihernandez0506.06@gmail.com
 - **Portfolio artístico:(https://www.artstation.com/valery665)
 
